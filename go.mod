@@ -13,8 +13,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/hashicorp/vault/api v1.3.0
 	github.com/lib/pq v1.8.0
-	github.com/prometheus/client_golang v1.7.1
-	github.com/prometheus/common v0.11.1 // indirect
+	github.com/prometheus/client_golang v1.11.1
 	github.com/sirupsen/logrus v1.6.0
 	github.com/stretchr/testify v1.7.0
 	github.com/swaggo/files v0.0.0-20190704085106-630677cd5c14
